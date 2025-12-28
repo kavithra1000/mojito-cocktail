@@ -18,8 +18,5 @@ A visually rich and interactive landing page built to showcase a cocktail shop w
 - Engaging animations and layout design
 - Optimized for performance and responsiveness
 
-## 📷 Screenshots
-_Add screenshots here_
-
 ## 📄 License
 MIT
